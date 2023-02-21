@@ -23,7 +23,7 @@
 				<div class="container">
 					<div class="d-flex menu-items">
 						<div class="active">
-							<a href="inicio.php">Inicio</a>
+							<a href="inicio.php">Prueba funcionando github</a>
 						</div>
 						<div>
 							<a href="category.php">Deportes</a>
@@ -40,15 +40,6 @@
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
-						<!--<div>
-							<a href="category.html">Politics</a>
-						</div>
-						<div>	
-							<a href="category.html">Features</a>
-						</div>
-						<div>	
-							<a href="category.html">Interviews</a>
-						</div>-->
 					</div>
 				</div>
 			</div>
@@ -71,7 +62,7 @@
 							<p>En un comunicado, la Casa Blanca indicó que Biden habló por teléfono con Duda desde Bali (Indonesia), donde se encuentra en el marco de la celebración del G-20, y que la llamada concluyó a las 5.30 horas de la mañana hora local.</p>
 							
 						</div>
-<hr>
+<hr>	
 						<div class="container section mt-4 no-pad">
 				<div class="section-title">
 					<span>Recomendado</span>
@@ -176,4 +167,5 @@
 					navbar.classList.remove('sticky');
 				}
 			}
-		</script>
+			</script>
+			
