@@ -15,7 +15,7 @@
 			<div class="logo-wrapper d-flex align-items-center">
 				<h1>
 					<a href="inicio.php">
-						NOTICIAS DEL MUNDO
+						PRUEBA CODIGO
 					</a>
 				</h1>
 			</div>
