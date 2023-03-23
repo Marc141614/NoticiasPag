@@ -31,19 +31,15 @@
 						<div>
 							<a href="clima.php">Clima</a>
 						</div>
-						
 						<div>
 							<a href="membresia.php">Membresía</a>
 						</div>
-						<input type="text" placeholder="Buscar" />
-
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
 					</div>
 				</div>
 			</div>
-
 			<div class="container main-news">
 				<div class="row">
 					<div class="col-8">
@@ -54,15 +50,13 @@
 						<img src="https://www.clarin.com/img/2022/11/15/FmYbyYxi8_1256x620__1.jpg" class="mt-3 thumb">
 						<div class="story mt-4">
 							<p>El primer ministro polaco, Mateusz Morawiecki, ha convocado urgentemente al Comité del Consejo de Ministros para Asuntos de Seguridad Nacional y Defensa tras la explosión ocurrida en el pueblo de Przewodów, justo en la frontera con Ucrania y que la radio local polaca ZET atribuye a misiles rusos perdidos.
-
 								EEUU, de momento, sigue intentando corroborar esta información, pero de momento no puede asegurar que los misiles rusos han impactado en suelo polaco.
 								
 								Además, edificios residenciales fueron alcanzados en el distrito de Pechersk, en Kiev, por varios misiles rusos. Los ataques se produjeron también en otras regiones de Ucrania, que han provocado cortes en el suministro eléctrico.</p>
 							<p>El presidente de Estados Unidos, Joe Biden, habló este miércoles con su homólogo polaco, Andrzej Duda, tras el supuesto ataque ruso en Polonia, cerca de la frontera con Ucrania, con dos muertos, que por el momento EE.UU. no ha podido confirmar.</p>
 							<p>En un comunicado, la Casa Blanca indicó que Biden habló por teléfono con Duda desde Bali (Indonesia), donde se encuentra en el marco de la celebración del G-20, y que la llamada concluyó a las 5.30 horas de la mañana hora local.</p>
-							
 						</div>
-<hr>	
+<hr>
 						<div class="container section mt-4 no-pad">
 				<div class="section-title">
 					<span>Recomendado</span>
@@ -152,12 +146,10 @@
 					</div>
 				</div>
 			</div>
-
 			<script type="text/javascript">
 			window.onscroll = function(){
 				setSticky();
 			}
-
 			navbar = document.getElementsByClassName('menu')[0];
 			var sticky = navbar.offsetTop;
 			function setSticky(){
@@ -168,4 +160,3 @@
 				}
 			}
 			</script>
-			

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device=width, initial-scale=1.0">
@@ -8,19 +7,16 @@
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 	</head>
-
 	<body>
-
 		<div class="container">
 			<div class="logo-wrapper d-flex align-items-center">
 				<h1>
 					<a href="inicio.php">
-						Prueba de código
+						Noticias del mundo
 					</a>
 				</h1>
 			</div>
 		</div>
-
 			<div class="container-fluid menu">
 				<div class="container">
 					<div class="d-flex menu-items">
@@ -33,27 +29,15 @@
 						<div>
 							<a href="clima.php">Clima</a>
 						</div>
-						
 						<div>
 							<a href="membresia.php">Membresía</a>
 						</div>
-						<input type="text" placeholder="Buscar" />
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
-						<!--<div>
-							<a href="category.html">Politics</a>
-						</div>
-						<div>	
-							<a href="category.html">Features</a>
-						</div>
-						<div>	
-							<a href="category.html">Interviews</a>
-						</div>-->
 					</div>
 				</div>
 			</div>
-
 			<div class="container main-news section">
 				<div class="row">
 					<div class="col-sm-12 col-md-6 col-xs-12 col-lg-6">
@@ -75,7 +59,6 @@
 										UIF denuncia a Murillo Karam por lavado de dinero, defraudación fiscal y tráfico de influencias
 									</a>
 								</h3>
-
 								<div class="image image-sm mb-1">
 									<img class="thumb" src="https://www.elfinanciero.com.mx/resizer/3Ykb3dgNUuYP3gWBHii9kc0g6Fw=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5V2HYRU54BCCXGJ72UXI6CH5YM.jpg">
 								</div>
@@ -84,9 +67,7 @@
 										Hasta siempre, heroína: Muere Frida, la perrita rescatista
 									</a>
 								</h3>
-
 							</div>
-
 							<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
 								<div class="image image-sm mb-1">
 									<img class="thumb" src="https://www.elsoldemexico.com.mx/mexico/sociedad/ue09m3-frente-frio-23-bajara-los-termometros-en-varios-estados-del-pais.jpeg/ALTERNATES/LANDSCAPE_1140/Frente%20Frío%2023%20bajará%20los%20termómetros%20en%20varios%20estados%20del%20país.jpeg">
@@ -96,7 +77,6 @@
 										¡Tápate bien! Frente frío congelará algunos estados; alertan por -10 grados
 									</a>
 								</h3>
-
 								<div class="image image-sm mb-3">
 									<img class="thumb image-sm" src="https://images.milenio.com/7uB3sl-rUo7GfjB71BZiqLBQmWs=/958x596/uploads/media/2022/11/14/las-unidades-del-metrobus-no_0_179_768_477.jpg">
 								</div>
@@ -105,13 +85,11 @@
 										Metrobús anuncia cambio en ruta sur de Línea 4 a partir de ésta fecha; conoce nuevo recorrido
 									</a>
 								</h3>
-
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
 			<div class="container section mt-4">
 				<div class="section-title">
 					<span>Otras noticias</span>
@@ -152,12 +130,6 @@
 					</div>
 				</div>
 			</div>
-
-
-
-
-
-
 			<div class="container section">
 				<div class="row">
 					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
@@ -179,11 +151,6 @@
 									<p class="summary pt-3">Fue inaugurado el evento Innovation Week en Expo Chihuahua, el evento más importante en innovación y emprendimiento, mediante el cual se desarrollarán conferencias de talla internacional.</p>
 								</div>
 							</div>
-
-
-
-
-
 							<div class="row mb-3 bb-1 pt-0">
 								<div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
 									<img class="thumb" src="https://www.elheraldodejuarez.com.mx/incoming/34w3jy-camiones-en-chihuahua.jpeg/alternates/LANDSCAPE_768/Camiones%20en%20Chihuahua.jpeg">
@@ -198,11 +165,6 @@
 									<p class="summary pt-3">El subsecretario de Transporte del Gobierno del Estado añadió que se está analizando el costo de operación de los concesionarios del transporte público</p>
 								</div>
 							</div>
-
-
-
-
-
 							<div class="row mb-3 bb-1 pt-0">
 								<div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
 									<img class="thumb" src="https://www.elheraldodechihuahua.com.mx/incoming/lu5tie-gallina-influenza-aviar/alternates/LANDSCAPE_768/gallina%20influenza%20aviar">
@@ -217,14 +179,6 @@
 									<p class="summary pt-3">“El estatus sanitario de Chihuahua está bajo control”, aseguró Juan Carlos Flores, explicó que la IAAP AH5N1 es una enfermedad que circula y se propaga a través de aves migratorias, por lo que donde hay agua y lagunas, puede ser fácil que las aves de traspatio se contagien.</p>
 								</div>
 							</div>
-
-
-
-
-
-
-
-
 							<div class="row mb-3 bb-1 pt-0">
 								<div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
 									<img class="thumb" src="https://www.elheraldodechihuahua.com.mx/incoming/8hyoqg-imss/alternates/LANDSCAPE_768/imss">
@@ -241,8 +195,6 @@
 							</div>
 						</div>
 					</div>
-
-
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 						<div class="trending mt-4">
 							<div class="section-title">
@@ -302,15 +254,11 @@
 					</div>
 				</div>
 			</div>
-
 		</div>
-
-
 		<script type="text/javascript">
 			window.onscroll = function(){
 				setSticky();
 			}
-
 			navbar = document.getElementsByClassName('menu')[0];
 			var sticky = navbar.offsetTop;
 			function setSticky(){
@@ -321,11 +269,7 @@
 				}
 			}
 		</script>
-
-
-
-
-
+		<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+		<script src="js/alert.js"></script>
 	</body>
-
-</html>
+</html>	

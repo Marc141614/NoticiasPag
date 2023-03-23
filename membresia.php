@@ -9,9 +9,7 @@
 		<link rel="stylesheet" href="assets/css/style.css">
 		<link rel="stylesheet" href="css/estilos.css">
 	</head>
-
 	<body>
-
 		<div class="container">
 			<div class="logo-wrapper d-flex align-items-center">
 				<h1>
@@ -33,27 +31,15 @@
 						<div>
 							<a href="clima.php">Clima</a>
 						</div>
-						
 						<div>
 							<a href="membresia.php">Membresía</a>
 						</div>
-						<input type="text" placeholder="Buscar" />
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
-						<!--<div>
-							<a href="category.html">Politics</a>
-						</div>
-						<div>	
-							<a href="category.html">Features</a>
-						</div>
-						<div>	
-							<a href="category.html">Interviews</a>
-						</div>-->
 					</div>
 				</div>
 			</div>
-
 			<div>
                 <div class="contenedor">
 					<div class="tabla">
@@ -79,12 +65,10 @@
 					</div>
 				</div>
             </div>
-
 			<script type="text/javascript">
 			window.onscroll = function(){
 				setSticky();
 			}
-
 			navbar = document.getElementsByClassName('menu')[0];
 			var sticky = navbar.offsetTop;
 			function setSticky(){

@@ -13,9 +13,6 @@
       <input class="controls" type="password" name="contraseña" value="" placeholder="Contraseña">
       <input class="buttons" type="submit" value="Ingresar">
       <p><a href="registrar.php">Registrarse</a></p>
-    
-
     </section>
-
   </body>
 </html>

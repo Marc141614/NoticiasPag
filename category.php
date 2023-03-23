@@ -31,11 +31,9 @@
 						<div>
 							<a href="clima.php">Clima</a>
 						</div>
-						
 						<div>
 							<a href="membresia.php">Membresía</a>
 						</div>
-						<input type="text" placeholder="Buscar" />
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
@@ -51,11 +49,9 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="container main-news">
 				<div class="row">
 					<div class="col-8">
-						
 						<div class="mb-4 mt-4 section">
 							<div class="section-title">
 								<span>Latest Updates</span>
@@ -131,10 +127,6 @@
 									<p class="summary pt-3">Despite heroic innings from the bat of Sam Curran, India defeated England by 7 runs to win the 3 match series 2-1. Chasing a target of 330 runs to win, the visiting team finished on 322/9 falling short of the target by 7 runs.</p>
 								</div>
 							</div>
-							
-							
-							
-							
 						</div>
 					</div>
 					<div class="col-4">
@@ -196,12 +188,10 @@
 					</div>
 				</div>
 			</div>
-
 			<script type="text/javascript">
 			window.onscroll = function(){
 				setSticky();
 			}
-
 			navbar = document.getElementsByClassName('menu')[0];
 			var sticky = navbar.offsetTop;
 			function setSticky(){

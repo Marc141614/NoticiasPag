@@ -7,9 +7,7 @@
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 	</head>
-
 	<body>
-
 		<div class="container">
 			<div class="logo-wrapper d-flex align-items-center">
 				<h1>
@@ -35,33 +33,18 @@
 						<div>
 							<a href="membresia.php">Membresía</a>
 						</div>
-						<input type="text" placeholder="Buscar" />
-
 						<div>
 							<a href="index.php">Cerrar Sesión</a>
 						</div>
-						<!--<div>
-							<a href="category.html">Politics</a>
-						</div>
-						<div>	
-							<a href="category.html">Features</a>
-						</div>
-						<div>	
-							<a href="category.html">Interviews</a>
-						</div>-->
 					</div>
 				</div>
 			</div>
-
 			<div class="container main-news">
-				
 			</div>
-
 			<script type="text/javascript">
 			window.onscroll = function(){
 				setSticky();
 			}
-
 			navbar = document.getElementsByClassName('menu')[0];
 			var sticky = navbar.offsetTop;
 			function setSticky(){
