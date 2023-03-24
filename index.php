@@ -12,7 +12,9 @@
       <input class="controls" type="text" name="usuario" value="" placeholder="Usuario">
       <input class="controls" type="password" name="contraseña" value="" placeholder="Contraseña">
       <input class="buttons" type="submit" value="Ingresar">
-      <p><a href="terminos.php">Leer Términos y condiciones</a></p>
+      <p><a href="terminos.php">Leer términos y condiciones.</a></p>
     </section>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+		<script src="js/alerta.js"></script>
   </body>
 </html>
