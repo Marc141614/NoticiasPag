@@ -21,6 +21,6 @@
 	<footer>
 		<button id="btn-aceptar">Acepto los términos y condiciones</button>
 	</footer>
-	<script src="js/alert.js"></script>
+	<script src="js/terminos.js"></script>
 </body>
 </html>

@@ -12,7 +12,7 @@
       <input class="controls" type="text" name="usuario" value="" placeholder="Usuario">
       <input class="controls" type="password" name="contraseña" value="" placeholder="Contraseña">
       <input class="buttons" type="submit" value="Ingresar">
-      <p><a href="registrar.php">Registrarse</a></p>
+      <p><a href="terminos.php">Leer Términos y condiciones</a></p>
     </section>
   </body>
 </html>
