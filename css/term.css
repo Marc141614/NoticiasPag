@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #1e90ff;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+main {
+	margin: 20px;
+}
+
+ol {
+	margin-left: 20px;
+}
+
+footer {
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+button {
+	background-color: #1e90ff;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
