@@ -20,7 +20,10 @@
 	</main>
 	<footer>
 		<button id="btn-aceptar">Acepto los términos y condiciones</button>
+        <button id="btn-rechazar">No acepto los términos y condiciones</button>
 	</footer>
 	<script src="js/terminos.js"></script>
+    <script src="js/noterminos.js"></script>
+
 </body>
 </html>
