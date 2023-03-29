@@ -22,7 +22,7 @@ $correo = $_POST["correo"];
 $contraseña_encriptada = password_hash($contraseña, PASSWORD_DEFAULT);
 
 // Insertar los valores en la base de datos
-$sql = "INSERT INTO usuarios (usuario, contraseña, edad, correo) VALUES ('$usuario', '$contraseña_encriptada', $edad, '$correo')";
+$sql = "INSERT INTO usuarios (usuario, contraseña, edad, correo,terminos) VALUES ('$usuario', '$contraseña_encriptada', $edad, '$correo','Aceptado')";
 
 if ($conn->query($sql) === TRUE) {
   echo "Registro exitoso";
