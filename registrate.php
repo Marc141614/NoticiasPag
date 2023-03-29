@@ -24,6 +24,8 @@
         <p><a href="politicapriv.php">Leer políticas de privacidad.</a></p>
 
 		<input type="submit" value="Registrarse">
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+		<script src="js/alerta2.js"></script>
 
 	</form>
 </body>

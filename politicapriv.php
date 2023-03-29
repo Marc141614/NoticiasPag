@@ -36,18 +36,28 @@
 
 		<section>
 			<h2>4. Seguridad</h2>
-			<p>Nos comprometemos a garantizar que su información esté segura. Para evitar el acceso no autorizado o divulgación, hemos implementado procedimientos físicos, electrónicos y administrativos adecuados para salvaguardar y asegurar la información que recopilamos en línea.</p>
+			<p>Nos comprometemos a garantizar que su información esté segura. Para evitar el acceso no autorizado o divulgación, hemos implementado procedimientos físicos, electrónicos y administrativos adecuados para salvaguardar y asegurar la información que recopilamos en línea. Los datos se almacenan en un servidor seguro y se utilizan técnicas de cifrado para proteger los datos transmitidos.</p>
 		</section>
+
+        <section>
+            <h2>5. Divulgación de información personal</h2>
+            <p>No compartimos ni vendemos información personal a terceros. Sin embargo, podemos divulgar información personal en respuesta a una orden judicial o requerimiento legal, o para proteger nuestros derechos o propiedad.</p>
+        </section>
 
 		<section>
-			<h2>5. Modificaciones a la página</h2>
-			<p>Nos reservamos el derecho de actualizar o modificar nuestros servidores y sitio web sin previo aviso. Es responsabilidad del usuario revisar regularmente esta página para conocer cualquier cambio en lnuestra aplicación.</p>
+			<h2>6. Modificaciones a la página</h2>
+			<p>Nos reservamos el derecho de actualizar o modificar nuestros servidores y sitio web sin previo aviso. Es responsabilidad del usuario revisar regularmente esta página para conocer cualquier cambio en nuestra aplicación.</p>
 		</section>
 
+        <section>
+        <h1>Última actualización: 28 de marzo del 2023</h1>
+        </section>
+
 	</main>
+    
 
 	<footer>
-		<p>© 2023 MiPáginaDeNoticias.com Todos los derechos reservados.</p>
+		<p>© 2023 NoticiasDelMundo.com Todos los derechos reservados.</p>
 </footer>
 
 </body>

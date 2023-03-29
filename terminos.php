@@ -45,6 +45,11 @@
 			<h2>7. Contacto</h2>
 			<p>Si tiene preguntas o comentarios acerca de estos términos y condiciones, por favor contáctenos a través de nuestro formulario de contacto.</p>
 		</section>
+
+		<section>
+			<h2>8. Enlaces a otros sitios web</h2>
+			<p>Nuestro sitio web puede contener enlaces a otros sitios web. No somos responsables de las prácticas de privacidad de estos sitios web y recomendamos que los usuarios revisen las políticas de privacidad de estos sitios web antes de proporcionar información personal.</p>
+		</section>
 	</main>
 
 	<footer>
