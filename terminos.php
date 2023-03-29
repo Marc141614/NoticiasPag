@@ -50,6 +50,11 @@
 			<h2>8. Enlaces a otros sitios web</h2>
 			<p>Nuestro sitio web puede contener enlaces a otros sitios web. No somos responsables de las prácticas de privacidad de estos sitios web y recomendamos que los usuarios revisen las políticas de privacidad de estos sitios web antes de proporcionar información personal.</p>
 		</section>
+
+		<section>
+			<h2>9. Notificaciones</h2>
+			<p>Al utilizar nuestra página web, usted acepta que esta es únicamente informativa y que no recibirá notificaciones comerciales de ningún tipo. Nos comprometemos a no utilizar su información de contacto para fines publicitarios o promocionales, y a respetar su privacidad en todo momento. Si en algún momento desea dejar de recibir correos electrónicos u otras formas de comunicación de nuestra parte, puede darse de baja en cualquier momento utilizando el enlace correspondiente que se encuentra en la parte inferior de cada correo electrónico que le enviemos.</p>
+		</section>
 	</main>
 
 	<footer>
